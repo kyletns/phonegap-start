@@ -4,10 +4,10 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Shitty Shopping</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+    Have a bad time shopping.
 	</description>
 
 	<author href="http://alunny.github.com"
@@ -15,7 +15,7 @@
 		Andrew Lunny
 	</author>
 
-	<icon src="icon.png" gap:role="default" />
+	<icon src="cart.png" gap:role="default" />
 
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
